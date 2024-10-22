@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LapTrinhMang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F811ABE-A946-4B6A-9B06-E41CEB592FB8}|LapTrinhMang\\LapTrinhMang.csproj|d:\\laptrinhmang\\laptrinhmang\\form\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8F811ABE-A946-4B6A-9B06-E41CEB592FB8}|LapTrinhMang\\LapTrinhMang.csproj|solutionrelative:laptrinhmang\\form\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F811ABE-A946-4B6A-9B06-E41CEB592FB8}|LapTrinhMang\\LapTrinhMang.csproj|D:\\LapTrinhMang\\laptrinhmang\\form\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F811ABE-A946-4B6A-9B06-E41CEB592FB8}|LapTrinhMang\\LapTrinhMang.csproj|solutionrelative:laptrinhmang\\form\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F811ABE-A946-4B6A-9B06-E41CEB592FB8}|LapTrinhMang\\LapTrinhMang.csproj|D:\\LapTrinhMang\\laptrinhmang\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8F811ABE-A946-4B6A-9B06-E41CEB592FB8}|LapTrinhMang\\LapTrinhMang.csproj|solutionrelative:laptrinhmang\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F811ABE-A946-4B6A-9B06-E41CEB592FB8}|LapTrinhMang\\LapTrinhMang.csproj|D:\\LapTrinhMang\\laptrinhmang\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F811ABE-A946-4B6A-9B06-E41CEB592FB8}|LapTrinhMang\\LapTrinhMang.csproj|solutionrelative:laptrinhmang\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F811ABE-A946-4B6A-9B06-E41CEB592FB8}|LapTrinhMang\\LapTrinhMang.csproj|D:\\LapTrinhMang\\laptrinhmang\\login-register\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F811ABE-A946-4B6A-9B06-E41CEB592FB8}|LapTrinhMang\\LapTrinhMang.csproj|solutionrelative:laptrinhmang\\login-register\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "D:\\LapTrinhMang\\LapTrinhMang\\Login-Register\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LapTrinhMang\\Login-Register\\LoginForm.cs",
+              "ToolTip": "D:\\LapTrinhMang\\LapTrinhMang\\Login-Register\\LoginForm.cs",
+              "RelativeToolTip": "LapTrinhMang\\Login-Register\\LoginForm.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAYwGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T19:22:33.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProfileForm.cs",
+              "DocumentMoniker": "D:\\LapTrinhMang\\LapTrinhMang\\ProfileForm.cs",
+              "RelativeDocumentMoniker": "LapTrinhMang\\ProfileForm.cs",
+              "ToolTip": "D:\\LapTrinhMang\\LapTrinhMang\\ProfileForm.cs",
+              "RelativeToolTip": "LapTrinhMang\\ProfileForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T19:18:08.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProfileForm.cs [Design]",
+              "DocumentMoniker": "D:\\LapTrinhMang\\LapTrinhMang\\ProfileForm.cs",
+              "RelativeDocumentMoniker": "LapTrinhMang\\ProfileForm.cs",
+              "ToolTip": "D:\\LapTrinhMang\\LapTrinhMang\\ProfileForm.cs [Design]",
+              "RelativeToolTip": "LapTrinhMang\\ProfileForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T19:13:27.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\LapTrinhMang\\LapTrinhMang\\Form\\MainForm.cs",
+              "RelativeDocumentMoniker": "LapTrinhMang\\Form\\MainForm.cs",
+              "ToolTip": "D:\\LapTrinhMang\\LapTrinhMang\\Form\\MainForm.cs",
+              "RelativeToolTip": "LapTrinhMang\\Form\\MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T18:03:06.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\LapTrinhMang\\LapTrinhMang\\Form\\MainForm.cs",
+              "RelativeDocumentMoniker": "LapTrinhMang\\Form\\MainForm.cs",
+              "ToolTip": "D:\\LapTrinhMang\\LapTrinhMang\\Form\\MainForm.cs [Design]",
+              "RelativeToolTip": "LapTrinhMang\\Form\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T18:01:24.692Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

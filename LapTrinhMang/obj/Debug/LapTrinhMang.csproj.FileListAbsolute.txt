@@ -1,0 +1,13 @@
+D:\LapTrinhMang\LapTrinhMang\bin\Debug\LapTrinhMang.exe.config
+D:\LapTrinhMang\LapTrinhMang\bin\Debug\LapTrinhMang.exe
+D:\LapTrinhMang\LapTrinhMang\bin\Debug\LapTrinhMang.pdb
+D:\LapTrinhMang\LapTrinhMang\obj\Debug\LapTrinhMang.csproj.AssemblyReference.cache
+D:\LapTrinhMang\LapTrinhMang\obj\Debug\LapTrinhMang.LoginForm.resources
+D:\LapTrinhMang\LapTrinhMang\obj\Debug\LapTrinhMang.Properties.Resources.resources
+D:\LapTrinhMang\LapTrinhMang\obj\Debug\LapTrinhMang.csproj.GenerateResource.cache
+D:\LapTrinhMang\LapTrinhMang\obj\Debug\LapTrinhMang.csproj.CoreCompileInputs.cache
+D:\LapTrinhMang\LapTrinhMang\obj\Debug\LapTrinhMang.exe
+D:\LapTrinhMang\LapTrinhMang\obj\Debug\LapTrinhMang.pdb
+D:\LapTrinhMang\LapTrinhMang\obj\Debug\LapTrinhMang.RegisterForm.resources
+D:\LapTrinhMang\LapTrinhMang\obj\Debug\LapTrinhMang.MainForm.resources
+D:\LapTrinhMang\LapTrinhMang\obj\Debug\LapTrinhMang.ProfileForm.resources
